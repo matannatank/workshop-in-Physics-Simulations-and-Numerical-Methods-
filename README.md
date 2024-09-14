@@ -21,8 +21,6 @@ General description of the projects :
 
 
 
-# Project Title
-
 ## Requirements
 
 This project requires the following Python packages:
