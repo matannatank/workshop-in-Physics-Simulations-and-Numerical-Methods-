@@ -21,4 +21,23 @@ Project 6 - Random processes
 
 
 
-i used the following packages :
+# Project Title
+
+## Requirements
+
+This project requires the following Python packages:
+
+- `math` (part of the Python standard library, no installation needed)
+- `numba`
+- `vpython`
+- `matplotlib`
+- `random` (part of the Python standard library, no installation needed)
+- `time` (part of the Python standard library, no installation needed)
+
+### Installation
+
+To install the necessary packages, follow these steps:
+
+1. First, clone the repository by the link .
+2. Install the required Python packages using pip : "pip install -r requirements.txt"
+
