@@ -12,12 +12,12 @@ The key objectives of this projects include:
 
 
 General description of the projects :
-Project 1 - Introduction and creating shapes
-Project 2 - projectile movement
-Project 3 - Pendulum
-Project 4 - Routes
-Project 5 - molecular dynamics
-Project 6 - Random processes
+1. Project 1 - Introduction and creating shapes
+2. Project 2 - projectile movement
+3. Project 3 - Pendulum
+4. Project 4 - Routes
+5. Project 5 - molecular dynamics
+6. Project 6 - Random processes
 
 
 
