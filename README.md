@@ -18,3 +18,7 @@ Project 3 - Pendulum
 Project 4 - Routes
 Project 5 - molecular dynamics
 Project 6 - Random processes
+
+
+
+i used the following packages :
